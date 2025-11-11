@@ -553,7 +553,7 @@ footer {
     top: -7px;
     font: 30px/18px 'Roboto Condensed', sans-serif;
     display: inline-block;
-    font-size: 30px;
+    font-size: 70px;
 }
 
 .f_phone {
@@ -849,5 +849,6 @@ header h1 a {
 }
 
 }
+
 
 
